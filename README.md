@@ -79,6 +79,7 @@ Always comply with your local laws when using OSINT tools.
 
 Pull requests and forks are welcome!  
 Feel free to improve and extend **The Hydra Hunter**.
+Just Please Let me Know. E-Mail: zayanzakir@icloud.com
 
 ---
 
