@@ -13,7 +13,11 @@ The Hydra Hunter is an **OSINT (Open Source Intelligence)** tool written in Pyth
 - 🧠 Easy to use CLI interface
 
 ---
-
+## 📩 Installation
+- Open Terminal  
+```bash
+git clone https://github.com/zayanzakir2211/TheHydraHunter.git
+```
 ## 🛠 Requirements
 
 - Python 3.6 or higher
